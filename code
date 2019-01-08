@@ -5,3 +5,26 @@ f[i+1]=k+1;
 AC自动机
 马拉车
 LRU
+list erase
+map erase
+find
+lower_bound
+list push_front
+list push_back
+nth element
+考虑集合为空情况
+partiton
+nth_element lower_bound用法区别
+nth_element(K.begin(),K.begin()+num , K.end()) K num位为第num大
+lower_bound(K.begin(),K.end(),m)  找到大于等于m的值
+快排
+堆排 n/2-1最后一个父节点
+归并排序 逆序对
+归并排序设置结束 (if(a>=b) return )
+先统计 再排序 双指针
+栈 容器非空 容量判断 break 
+线段树 m>=ql  m<qr
+结构体格式
+二叉树前序遍历
+二叉树后序遍历
+二叉树重构
