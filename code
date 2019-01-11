@@ -31,3 +31,16 @@ lower_bound(K.begin(),K.end(),m)  找到大于等于m的值
 LCA
 字典序第k大
 快速幂
+审题
+双指针
+两数相加 carr
+leetcode 3 无重复字串
+manacher ## init()
+
+
+
+
+
+
+待
+leetcode 4
