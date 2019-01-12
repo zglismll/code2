@@ -39,6 +39,7 @@ leetcode 3 无重复字串
 leeycode 8 多种情况 
 stack push  fei push_back                                push  push_back yingyongqubie
                                                            越界检查
+                                                              空链表特判
 
 
 
