@@ -41,6 +41,7 @@ stack push  fei push_back                                push  push_back yingyon
                                                            越界检查
                                                               空链表特判
                                                                AVL 红黑树 b树 b+树
+                                                                结构体书写
 
 
 
