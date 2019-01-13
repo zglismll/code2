@@ -43,7 +43,9 @@ stack push  fei push_back                                push  push_back yingyon
                                                                AVL 红黑树 b树 b+树
                                                                 结构体书写
 
-
+                                                                 结构体 初始化函数
+                                                                    unordered_map<int , list<pair<int,int> > :: iterator>
+                                                                       二叉搜索树 插入
   搜索   减少回溯
 待
 leetcode 4
